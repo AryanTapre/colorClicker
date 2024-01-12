@@ -1,0 +1,53 @@
+/* TODO: CSS boiler plate */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    display: flex;
+    background-color: #212121;
+}
+
+.buttons {
+    margin: auto;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.button-red {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border: solid black;
+}
+
+.button-black {
+    background-color: #212121;
+    height: 100px;
+    width: 100px;
+    border: solid black;
+}
+
+.button-orange {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border: solid black;
+}
+
+.button-pink {
+    background-color: deeppink;
+    height: 100px;
+    width: 100px;
+    border: solid black;
+}
