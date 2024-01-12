@@ -3,13 +3,13 @@
 **Cool Name Be:** *color clicker*
 
 ---
-####📝**Requirement:**  
+📝**Requirement:**  
 Change the document color when relative color box clicked.
 
-####📒**Description:**
+📒**Description:**
 An web experiment teaches how to deal with D.O.M by a simple object selection and changing backgroundColor of that object.
 
-####🤖**Technical Discussion:**
+🤖**Technical Discussion:**
 >Executing directly:
 
 $~~~~~~$ run index.html file, default browser with this file loaded will opened.
